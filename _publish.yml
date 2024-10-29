@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: f3163827-1f03-426d-a6dc-4b3704214892
+      url: 'https://aurelie.quarto.pub/hippo2'
